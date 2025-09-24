@@ -46,6 +46,27 @@ remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- CSS -->
 <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/css/v4-shims.min.css">
+<style>
+/* Uniform circular frames for all social icons */
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;          /* circle size */
+  height: 50px;
+  border-radius: 50%;
+  line-height: 1;       /* avoid font affecting height */
+  text-decoration: none;
+  background: none;     /* no fill */
+  border: 1px solid currentColor; /* optional thin ring; remove if you want no ring */
+}
+
+.social-btn i {
+  font-size: 18px;      /* tweak until it looks balanced inside 32px */
+}
+</style>
 <!-- JS -->
 <script src="{{ site.url }}/assets/js/modernizr-3.3.1.custom.min.js"></script>
 <!-- Favicons -->
@@ -76,6 +97,35 @@ background }}{% endcapture %}{% endunless %}
         }
     }
 </style>
+<style>
+/* Show the full feature image without cropping */
+.post-title.feature {
+  /* ensure the inline style from head.html that sets the image remains */
+  background-repeat: no-repeat;
+  background-position: center center; /* tweak focus as needed */
+  background-size: contain;           /* <-- key change: no crop */
+  /* give the box some height so the image has space to display */
+  min-height: 320px;                  /* adjust to taste */
+  padding: 2rem 1rem;                 /* space for the title text */
+}
+
+/* If you want a consistent shape without guessing a px height: */
+@supports (aspect-ratio: 1 / 1) {
+  .post-title.feature {
+    aspect-ratio: 16 / 9;            /* pick your banner ratio */
+    min-height: auto;                /* aspect-ratio handles height */
+  }
+}
+
+/* Small screens: reduce height so it doesn’t dominate */
+@media (max-width: 640px) {
+  .post-title.feature {
+    min-height: 220px;
+    aspect-ratio: auto;
+  }
+}
+</style>
+
 {% endif %}
 <!-- Post Feature Image -->
 {% if page.feature %}

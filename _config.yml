@@ -1,14 +1,14 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
-reading_time: true
+title: Tiger C. Lu
+bio: "Hi, I'm Tiger and I like planets!"
+description: "Flatiron Research Fellow at the Center for Computational Astrophysics"
+reading_time: false
 words_per_minute: 200
-logo: "assets/img/logo.png"
+logo: "assets/img/tlu_circ.png"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: tigerclu.com
 
 # Jekyll
 permalink: /:title/
@@ -36,20 +36,22 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-#email:
-twitter: username
-facebook: username
-github-url: username
+email: tlu@flatironinstitute.org
+#ADS: ui.adsabs.harvard.edu/user/libraries/w1612yBmSPmrRy2smeA3ow
+orcid: 0000-0003-0834-8645
+#twitt
+github-url: tigerchenlu98
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin: username
 #xing: username
-instagram: username
+#instagram: tigercheesehippo
+strava: 42634794
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
 #youtube: username
 #youtube-channel: channel

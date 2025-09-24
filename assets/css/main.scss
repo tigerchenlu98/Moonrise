@@ -26,3 +26,70 @@ sitemap: false
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
+.post-item {
+  display: flex;
+  align-items: center; /* center thumb and text vertically */
+  margin-bottom: 2rem;
+}
+
+.post-thumb {
+  flex: 0 0 120px; /* fixed thumbnail width */
+  margin-right: 1rem;
+}
+
+.post-thumb img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px; /* optional */
+  display: block;
+}
+
+.post-content {
+  flex: 1;
+}
+
+.post-content .post-title {
+  text-align: left;     /* force left alignment */
+  display: block;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.masonry-grid {
+  column-count: 3;
+  column-gap: 1rem;
+}
+
+.masonry-grid figure {
+  break-inside: avoid;
+  margin: 0 0 1rem;
+  display: inline-block;
+  width: 100%;
+}
+
+.masonry-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+.masonry-grid figcaption {
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  text-align: center;
+  color: #555;
+}
+
+@media (max-width: 900px) {
+  .masonry-grid {
+    column-count: 2;
+  }
+}
+@media (max-width: 600px) {
+  .masonry-grid {
+    column-count: 1;
+  }
+}

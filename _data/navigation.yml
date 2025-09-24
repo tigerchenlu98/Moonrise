@@ -1,4 +1,10 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Outreach
+  url: /outreach
+
+- title: Mentoring
+  url: /mentoring
+
+- title: CV
+  url: /TLu_CV.pdf
