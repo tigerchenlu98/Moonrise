@@ -8,7 +8,7 @@ logo: "assets/img/tlu_circ.png"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: tigerclu.com
+url: https://tigerchenlu98.github.io
 
 # Jekyll
 permalink: /:title/

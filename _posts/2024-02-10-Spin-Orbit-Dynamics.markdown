@@ -54,7 +54,7 @@ Standard planetary formation theory tells us that planets should form with zero 
     </p>
 
     <p>
-      This article was covered in PopSci! Check out this wonderful article written by <a href="http://www.briley-lewis.com/" style="color:black;"><i>Briley Lewis</i></a>: <a href="https://www.popsci.com/science/cotton-candy-ring-pops-planets/" style="color:blue;"><i>What if 'cotton candy' planets are actually Ring Pops?</i></a>
+      This article was covered in PopSci! Check out this wonderful article written by <a href="http://www.briley-lewis.com/" style="color:black;">Briley Lewis</a>: <a href="https://www.popsci.com/science/cotton-candy-ring-pops-planets/" style="color:blue;"><i>What if 'cotton candy' planets are actually Ring Pops?</i></a>
     </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
