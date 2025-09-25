@@ -1,14 +1,15 @@
 # Site
 title: Tiger C. Lu
-bio: "Hi, I'm Tiger and I like planets!"
+bio: "Hi, I'm Tiger and I like planetssss!"
 description: "Flatiron Research Fellow at the Center for Computational Astrophysics"
 reading_time: false
 words_per_minute: 200
 logo: "assets/img/tlu_circ.png"
-background: "assets/img/moonrise-background.jpg"
+background: "assets/img/yosemite.png"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
 url: https://tigerchenlu98.github.io
+baseurl: ""
 
 # Jekyll
 permalink: /:title/
