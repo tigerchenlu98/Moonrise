@@ -27,9 +27,9 @@ I say this a lot: there is <b>no one</b> in the world who wants you to use these
     </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.3708L/abstract" style="color:blue;"><i><b>Lu</b>, Hernandez & Rein (2024)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract" style="color:blue;"><i><b>Lu</b>, Tajer, Rein, et al. (2025)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4639H/abstract" style="color:blue;"><i>Hernandez & Dehnen (2023)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.3708L/abstract"><i><b>Lu</b>, Hernandez & Rein (2024)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i><b>Lu</b>, Tajer, Rein, et al. (2025)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4639H/abstract"><i>Hernandez & Dehnen (2023)</i></a></li>
     </ul>
   </div>
 </div>
