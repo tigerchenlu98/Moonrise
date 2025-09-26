@@ -115,13 +115,15 @@ sitemap: false
   width: 150px;
   height: auto;
   border-radius: 2px;
-  flex: 0 0 auto; /* prevent the image from shrinking/growing */
+  /* prevent the image from shrinking/growing */
+  flex: 0 0 auto;
   display: block;
 }
 
 .feature-row .content {
   flex: 1 1 0;
-  min-width: 0; /* allow text to wrap nicely in flex containers */
+  /* allow text to wrap nicely in flex containers */
+  min-width: 0;
 }
 
 /* Responsive behavior: stack on small screens, image on top */
@@ -135,4 +137,4 @@ sitemap: false
     width: 100%;
     max-width: 480px;
     border-radius: 8px;
-    order: -1; /* ensure image appears above te*
+    /* ensure image appears above text even*
