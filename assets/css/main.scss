@@ -143,16 +143,16 @@ sitemap: false
 }
 
 a {
-  color: #6C63FF;        /* blue-violet */
-  text-decoration: underline;
+  color: #6C63FF !important;        /* blue-violet */
+  text-decoration: underline !important;
 }
 
 a:hover,
 a:focus {
-  color: #4A3FFF;        /* stronger violet-blue */
-  text-decoration: underline;
+  color: #4A3FFF !important;        /* stronger violet-blue */
+  text-decoration: underline !important;
 }
 a:active {
-  color: #1a1734;
-  text-decoration: underline;        
+  color: #1a1734 !important;
+  text-decoration: underline !important;        
 }
