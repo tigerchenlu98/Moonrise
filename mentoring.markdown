@@ -27,14 +27,14 @@ Mentoring has been one of the most rewarding parts of my career, and I feel fort
        alt="Nina!"
        style="width:150px; height:auto; border-radius:2px;">
   <div>
-    <h1><a href="https://yurouninaliu.github.io" style="color:black;">Yurou (Nina) Liu</a></h1>
+    <h1><a href="https://yurouninaliu.github.io">Yurou (Nina) Liu</a></h1>
     <p>
       Yurou (Nina) Liu is senior undergraduate at Yale University studying Physics (Intensive) and Computer Science, with a focus on exoplanetary science. She is researching exoplanet dynamics and substellar atmospheres. Beyond astrophysics research, she has designed her computer science major around computer graphics and vision.
     </p>
-    <p> <i>Tiger note: Nina's paper was recently featured in Yale Daily News! Check out the article here: <a href="https://news.yale.edu/2025/06/18/new-study-offers-double-dose-hot-jupiters" style="color:blue;">New study offers a double dose of 'hot Jupiters'</a></i>.
+    <p> <i>Tiger note: Nina's paper was recently featured in Yale Daily News! Check out the article here: <a href="https://news.yale.edu/2025/06/18/new-study-offers-double-dose-hot-jupiters">New study offers a double dose of 'hot Jupiters'</a></i>.
     <p><strong>Relevant Papers:</strong></p>
     <ul>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...986..103L/abstract" style="color:black;"><i><b>Liu</b>, Lu & Rice (2025)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract" style="color:black;"><i>Lu, Tajer, Rein, et al. (inc. <b>Liu</b>), (2025)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...986..103L/abstract"><i><b>Liu</b>, Lu & Rice (2025)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2025RNAAS...9..110L/abstract"><i>Lu, Tajer, Rein, et al. (inc. <b>Liu</b>), (2025)</i></a></li>
       <li><i><b>Liu</b>, Lu & Rice, in prep</i></li>
     </ul>

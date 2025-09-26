@@ -29,9 +29,9 @@ Standard planetary formation theory tells us that planets should form with zero 
     </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2022PSJ.....3..221L/abstract" style="color:blue;"><i><b>Lu</b> & Laughlin (2022)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2019PhR...805....1B/abstract" style="color:blue;"><i>Batygin, Adams, Brown & Becker (2019)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2012Icar..219..737M/abstract" style="color:blue;"><i>Morbidelli, Tsiganis, Batygin, et al. (2012)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2022PSJ.....3..221L/abstract"><i><b>Lu</b> & Laughlin (2022)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2019PhR...805....1B/abstract"><i>Batygin, Adams, Brown & Becker (2019)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2012Icar..219..737M/abstract"><i>Morbidelli, Tsiganis, Batygin, et al. (2012)</i></a></li>
     </ul>
   </div>
 </div>
@@ -50,17 +50,17 @@ Standard planetary formation theory tells us that planets should form with zero 
     </p>
 
     <p>
-      Why do we care that it's tilted? Let's think about how astronomers measure density. Density is mass over volume, and we measure volume based on the transit method. Exoplanets, if we're lucky, will regularly eclipse their host stars. We can thus measure volume based on how much light a planet blocks when it eclipses its host star. A very puffy planet would block a lot of light from its host star. But so could a normal planet that has an extensive ring system around it! And you'd need the planet to be tilted over for this hypothesis to make sense -- otherwise, you'd see the thin rings edge-on and they wouldn't block any light. Hopefully, in the near future we'll be able to directly detect planetary ring systems with packages such as <a href="https://ui.adsabs.harvard.edu/abs/2024JOSS....9.6972C/abstract" style="color:blue;"><i>squishyplanet</i></a>, developed by <a href="https://ben-cassese.github.io/" style="color:black;"><i>Ben Cassese</i></a> (a co-author on this study).
+      Why do we care that it's tilted? Let's think about how astronomers measure density. Density is mass over volume, and we measure volume based on the transit method. Exoplanets, if we're lucky, will regularly eclipse their host stars. We can thus measure volume based on how much light a planet blocks when it eclipses its host star. A very puffy planet would block a lot of light from its host star. But so could a normal planet that has an extensive ring system around it! And you'd need the planet to be tilted over for this hypothesis to make sense -- otherwise, you'd see the thin rings edge-on and they wouldn't block any light. Hopefully, in the near future we'll be able to directly detect planetary ring systems with packages such as <a href="https://ui.adsabs.harvard.edu/abs/2024JOSS....9.6972C/abstract"><i>squishyplanet</i></a>, developed by <a href="https://ben-cassese.github.io/"><i>Ben Cassese</i></a> (a co-author on this study).
     </p>
 
     <p>
-      This article was covered in PopSci! Check out this wonderful article written by <a href="http://www.briley-lewis.com/" style="color:black;">Briley Lewis</a>: <a href="https://www.popsci.com/science/cotton-candy-ring-pops-planets/" style="color:blue;"><i>What if 'cotton candy' planets are actually Ring Pops?</i></a>
+      This article was covered in PopSci! Check out this wonderful article written by <a href="http://www.briley-lewis.com/">Briley Lewis</a>: <a href="https://www.popsci.com/science/cotton-candy-ring-pops-planets/"><i>What if 'cotton candy' planets are actually Ring Pops?</i></a>
     </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...980...39L/abstract" style="color:blue;"><i><b>Lu</b>, Li, Cassese & Lin (2025)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2024JOSS....9.6972C/abstract" style="color:blue;"><i>Cassese, Vega, <b>Lu</b>, et al. (2024)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...897....7M/abstract" style="color:blue;"><i>Millholland, Petigura & Batygin (2020)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...980...39L/abstract"><i><b>Lu</b>, Li, Cassese & Lin (2025)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2024JOSS....9.6972C/abstract"><i>Cassese, Vega, <b>Lu</b>, et al. (2024)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...897....7M/abstract"><i>Millholland, Petigura & Batygin (2020)</i></a></li>
     </ul>
   </div>
   <img src="/images/rings.png"

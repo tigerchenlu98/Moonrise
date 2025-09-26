@@ -21,7 +21,7 @@ I am <b>very</b> excited about right now. The slight puffing up of a planet as i
 
 <p><strong>Relevant Papers:</strong></p>
 <ul>
-  <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...979..218L/abstract" style="color:blue;"><i><b>Lu</b>, An, Li, et al. (2025)</i></a></li>
-  <li><a href="https://ui.adsabs.harvard.edu/abs/2025AJ....169...22A/abstract" style="color:blue;"><i>An, <b>Lu</b>, Brandt, et al. (2025)</i></a></li>
-  <li><a href="https://ui.adsabs.harvard.edu/abs/2016ARA%26A..54..441N/abstract" style="color:blue;"><i>Naoz (2016)</i></a></li>
+  <li><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...979..218L/abstract"><i><b>Lu</b>, An, Li, et al. (2025)</i></a></li>
+  <li><a href="https://ui.adsabs.harvard.edu/abs/2025AJ....169...22A/abstract"><i>An, <b>Lu</b>, Brandt, et al. (2025)</i></a></li>
+  <li><a href="https://ui.adsabs.harvard.edu/abs/2016ARA%26A..54..441N/abstract"><i>Naoz (2016)</i></a></li>
 </ul>

@@ -144,7 +144,7 @@ sitemap: false
 
 a {
   color: #6C63FF;        /* blue-violet */
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover,
@@ -153,5 +153,6 @@ a:focus {
   text-decoration: underline;
 }
 a:active {
-  color: #1a1734;        
+  color: #1a1734;
+  text-decoration: underline;        
 }

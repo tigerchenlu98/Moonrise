@@ -23,7 +23,7 @@ I say this a lot: there is <b>no one</b> in the world who wants you to use these
   <div>
     <h1 id="trace">TRACE</h1>
     <p>
-      is a code for <b>T</b>ime <b>R</b>eversible <b>A</b>strophysical <b>C</b>lose <b>E</b>ncounters. TRACE is a hybrid integrator, meaning it uses a <a href="https://ui.adsabs.harvard.edu/abs/1991AJ....102.1528W/abstract" style="color:black;">fast inflexible method</a> most of the time and switches to a highly accurate flexible method only when it has to. The tricky thing about constructing hybrid integrators is deciding when to make this switch. The novelty of TRACE is that we switch in a manner that respects the time-reversibility of the natural world, following an astonishingly elegant algorithm developed by my collaborator (and co-author on this work) <a href="https://www.davidmhernandez.com/" style="color:black;">David Hernandez</a>. TRACE is mostly applied to highly chaotic systems with many close encounters between planets, and in these applications we've found it to be over 10x faster than previous state-of-the-art hybrid integrators with no penalty to accuracy.
+      is a code for <b>T</b>ime <b>R</b>eversible <b>A</b>strophysical <b>C</b>lose <b>E</b>ncounters. TRACE is a hybrid integrator, meaning it uses a <a href="https://ui.adsabs.harvard.edu/abs/1991AJ....102.1528W/abstract">fast inflexible method</a> most of the time and switches to a highly accurate flexible method only when it has to. The tricky thing about constructing hybrid integrators is deciding when to make this switch. The novelty of TRACE is that we switch in a manner that respects the time-reversibility of the natural world, following an astonishingly elegant algorithm developed by my collaborator (and co-author on this work) <a href="https://www.davidmhernandez.com/">David Hernandez</a>. TRACE is mostly applied to highly chaotic systems with many close encounters between planets, and in these applications we've found it to be over 10x faster than previous state-of-the-art hybrid integrators with no penalty to accuracy.
     </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
@@ -40,13 +40,13 @@ I say this a lot: there is <b>no one</b> in the world who wants you to use these
   <div>
     <h1 id="trace">tides_spin</h1>
     <p>
-      is a module in the <a href="https://reboundx.readthedocs.io/en/latest/effects.html" style="color:black;">REBOUNDx</a> library of add-ons for REBOUND simulations, developed and maintained by <a href="https://dtamayo.github.io/" style="color:black;">Dan Tamayo</a>. REBOUND generally treats all planets as point particles. But planets are <b>not</b>: they are dynamic things that spin and distort in the presence of other bodies. <i>tides_spin</i> incorporates an elegant prescription of tides known as the equilibrium tide framework into a REBOUND simulation. It allows study of extremely important astrophysical processes such as tidal decay of orbits and planetary spin evolution. Detailed documentation and example code can be found <a href="https://reboundx.readthedocs.io/en/latest/effects.html#tides" style="color:black;">here</a>.
+      is a module in the <a href="https://reboundx.readthedocs.io/en/latest/effects.html">REBOUNDx</a> library of add-ons for REBOUND simulations, developed and maintained by <a href="https://dtamayo.github.io/">Dan Tamayo</a>. REBOUND generally treats all planets as point particles. But planets are <b>not</b>: they are dynamic things that spin and distort in the presence of other bodies. <i>tides_spin</i> incorporates an elegant prescription of tides known as the equilibrium tide framework into a REBOUND simulation. It allows study of extremely important astrophysical processes such as tidal decay of orbits and planetary spin evolution. Detailed documentation and example code can be found <a href="https://reboundx.readthedocs.io/en/latest/effects.html#tides">here</a>.
     </p>
     <p><strong>Relevant Papers:</strong></p>
     <ul>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...948...41L/abstract" style="color:blue;"><i><b>Lu</b>, Rein, Tamayo, et al. (2023)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/1998ApJ...499..853E/abstract" style="color:blue;"><i>Eggleton, Kiselava-Eggleton & Hut (1998)</i></a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...573..829M/abstract" style="color:blue;"><i>Mardling & Lin (2002)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...948...41L/abstract"><i><b>Lu</b>, Rein, Tamayo, et al. (2023)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/1998ApJ...499..853E/abstract"><i>Eggleton, Kiselava-Eggleton & Hut (1998)</i></a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...573..829M/abstract"><i>Mardling & Lin (2002)</i></a></li>
     </ul>
   </div>
   <img src="/images/tides_spin.png"

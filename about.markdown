@@ -24,8 +24,8 @@ I'm interested in a lot of things. If it involves dynamics, I can probably be co
 
 I'm presently
 
-- a Flatiron Research Fellow at the Flatiron Institute's <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/" style="color:red;">Center for Computational Astrophysics</a>
-- an affiliated postdoc in the <a href="http://www.astro.yale.edu/malenarice/team.html" style="color:darkblue;">Rice Research Group</a>
+- a Flatiron Research Fellow at the Flatiron Institute's <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/">Center for Computational Astrophysics</a>
+- an affiliated postdoc in the <a href="http://www.astro.yale.edu/malenarice/team.html">Rice Research Group</a>
 
 Prior to my current position, I recently received my Ph.D. from Yale University in 2025 where I was advised by [Gregory Laughlin](https://astronomy.yale.edu/people/gregory-laughlin) and [Malena Rice](http://www.astro.yale.edu/malenarice). My dissertation was titled [<i>Planets are not Points: the Profound Effect of Planetary Structure on Exoplanet System Architectures</i>](Lu_Dissertation.pdf). I am told the Acknowledgements are quite wholesome, if you're interested in reading about the many wonderful people who've been important to my career. You can also find a video of my defense [here](https://www.youtube.com/watch?v=HyJ-rP_MWtk). Prior to <em>that</em> I received my B.S. in Astrophysics from Caltech in 2020.
 
