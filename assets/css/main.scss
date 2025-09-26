@@ -137,4 +137,21 @@ sitemap: false
     width: 100%;
     max-width: 480px;
     border-radius: 8px;
-    /* ensure image appears above text even*
+    /* ensure image appears above text even if placed after it in HTML */
+    order: -1;
+  }
+}
+
+a {
+  color: #6C63FF;        /* blue-violet */
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #4A3FFF;        /* stronger violet-blue */
+  text-decoration: underline;
+}
+a:active {
+  color: #1a1734;        
+}
