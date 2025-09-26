@@ -93,3 +93,46 @@ sitemap: false
     column-count: 1;
   }
 }
+
+
+/* -------------------------------------------------------
+   Feature rows: image + text (site-wide, Option A)
+   Usage in HTML:
+   <div class="feature-row">
+     <img class="media" src="..." alt="...">
+     <div class="content">...</div>
+   </div>
+   ------------------------------------------------------- */
+
+.feature-row {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 20px 0;
+}
+
+.feature-row .media {
+  width: 150px;
+  height: auto;
+  border-radius: 2px;
+  flex: 0 0 auto; /* prevent the image from shrinking/growing */
+  display: block;
+}
+
+.feature-row .content {
+  flex: 1 1 0;
+  min-width: 0; /* allow text to wrap nicely in flex containers */
+}
+
+/* Responsive behavior: stack on small screens, image on top */
+@media (max-width: 768px) {
+  .feature-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  .feature-row .media {
+    width: 100%;
+    max-width: 480px;
+    border-radius: 8px;
+    order: -1; /* ensure image appears above te*

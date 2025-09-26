@@ -6,7 +6,7 @@ comments: false
 ---
 Mentoring has been one of the most rewarding parts of my career, and I feel fortunate to have worked with some exceptionally talented students over the years. I often say that I've never had a student who wasn't a better scientist than myself, and I'm genuinely only ~15% joking. On this page you'll find brief bios of the students I've directly supervised.
 
-<div style="display:flex; align-items:center; gap:2rem; margin:20px 0;">
+<div class="feature-row">
   <img src="/images/haedam_im.jpg"
        alt="Haedam!"
        style="width:150px; height:auto; border-radius:2px;">
@@ -22,7 +22,7 @@ Mentoring has been one of the most rewarding parts of my career, and I feel fort
   </div>
 </div>
 -------------------
-<div style="display:flex; align-items:center; gap:2rem; margin:20px 0;">
+<div class="feature-row">
   <img src="/images/yurou_liu.jpg"
        alt="Nina!"
        style="width:150px; height:auto; border-radius:2px;">

@@ -14,7 +14,7 @@ The rate at which a planet spins at, and the direction its rotational axis point
 Standard planetary formation theory tells us that planets should form with zero tilt. Yet, if we look at the planets in our solar system, every single one of them is tilted over to some degree. So, what gives? It turns out that gravitational perturbations from the other planets in the system can, in the right conditions, gently tip a planet over time. This process is called <i>spin-orbit resonance</i>, and we think it is responsible for many of the off-axis planets in our solar system. I study the process and implications of spin-orbit resonance, in both our own solar system and in exoplanet systems.
 
 -----
-<div style="display:flex; align-items:center; gap:2rem; margin:20px 0;">
+<div class="feature-row">
   <img src="/images/tilting_uranus.png"
        alt="I'm tilted!"
        style="width:150px; height:auto; border-radius:2px;">
@@ -38,7 +38,7 @@ Standard planetary formation theory tells us that planets should form with zero 
 
 ----------
 
-<div style="display:flex; align-items:center; gap:2rem; margin:20px 0;">
+<div class="feature-row">
   <div>
     <h1 id="trace">Planetary Rings Masquerading as a Puffy Planet</h1>
     <p>

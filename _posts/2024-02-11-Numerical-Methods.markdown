@@ -16,7 +16,7 @@ The most popular software used to simulate the dynamics of planetary system is [
 I say this a lot: there is <b>no one</b> in the world who wants you to use these tools more than I do. So I am always very happy to look over code or help debug if you have any questions at all about any of the tools I've made. Just shoot me an email! You get to use my code, my code gets used, everyone wins.
 
 -----
-<div style="display:flex; align-items:center; gap:2rem; margin:20px 0;">
+<div class="feature-row">
   <img src="/images/TRACE_schematic.png"
        alt="Very simplified version of how TRACE works"
        style="width:150px; height:auto; border-radius:2px;">
@@ -36,7 +36,7 @@ I say this a lot: there is <b>no one</b> in the world who wants you to use these
 
 ----------
 
-<div style="display:flex; align-items:center; gap:2rem; margin:20px 0;">
+<div class="feature-row">
   <div>
     <h1 id="trace">tides_spin</h1>
     <p>

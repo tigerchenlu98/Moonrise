@@ -7,7 +7,7 @@ comments: false
 
 I am heavily involved in outreach! This page lists a few of my favorite highlights. For a full list of outreach and professional service activities I've been involved with, check out my [CV](TLu_CV.pdf).
 
-<div style="display:flex; align-items:center; gap:2rem; margin:20px 0;">
+<div class="feature-row">
   <img src="/images/openlabs.jpg"
        alt="Tiger giving a Flipped Science Fair Presentation!"
        style="width:150px; height:auto; border-radius:2px;">
@@ -24,7 +24,7 @@ I am heavily involved in outreach! This page lists a few of my favorite highligh
   </div>
 </div>
 
-<div style="display:flex; align-items:center; gap:2rem; margin:20px 0;">
+<div class="feature-row">
   <div>
     <a href="https://www.warrior-scholar.org/" style="color:black;"><h1>The Warrior Scholar Program</h1></a>
     <p>
@@ -36,7 +36,7 @@ I am heavily involved in outreach! This page lists a few of my favorite highligh
        style="width:150px; height:auto; border-radius:2px;">
 </div>
 
-<div style="display:flex; align-items:center; gap:2rem; margin:20px 0;">
+<div class="feature-row">
   <img src="/images/eres.JPG"
        alt="ded"
        style="width:150px; height:auto; border-radius:2px;">
